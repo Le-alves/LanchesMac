@@ -16328,11 +16328,6 @@
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Users\\Leticia Alves\\Documents\\Montreal\\LanchesMac\\Views\\Home\\Demo.cshtml",
-      "TargetPath": "Views\\Home\\Demo.cshtml",
-      "FileKind": "mvc"
-    },
-    {
       "FilePath": "c:\\Users\\Leticia Alves\\Documents\\Montreal\\LanchesMac\\Views\\Shared\\Error.cshtml",
       "TargetPath": "Views\\Shared\\Error.cshtml",
       "FileKind": "mvc"
