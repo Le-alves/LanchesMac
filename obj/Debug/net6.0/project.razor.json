@@ -12050,6 +12050,40 @@
         }
       },
       {
+        "HashCode": -1018023732,
+        "Kind": "ITagHelper",
+        "Name": "LanchesMac.TagHelpers.EmailTagHelper",
+        "AssemblyName": "LanchesMac",
+        "CaseSensitive": false,
+        "TagMatchingRules": [
+          {
+            "TagName": "email"
+          }
+        ],
+        "BoundAttributes": [
+          {
+            "Kind": "ITagHelper",
+            "Name": "endereco",
+            "TypeName": "System.String",
+            "Metadata": {
+              "Common.PropertyName": "Endereco"
+            }
+          },
+          {
+            "Kind": "ITagHelper",
+            "Name": "conteudo",
+            "TypeName": "System.String",
+            "Metadata": {
+              "Common.PropertyName": "Conteudo"
+            }
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "ITagHelper",
+          "Common.TypeName": "LanchesMac.TagHelpers.EmailTagHelper"
+        }
+      },
+      {
         "HashCode": -1132855933,
         "Kind": "ITagHelper",
         "Name": "Microsoft.AspNetCore.Mvc.Razor.TagHelpers.UrlResolutionTagHelper",
@@ -14245,6 +14279,40 @@
         }
       },
       {
+        "HashCode": 1664184466,
+        "Kind": "MVC.ViewComponent",
+        "Name": "__Generated__CarrinhoCompraResumoViewComponentTagHelper",
+        "AssemblyName": "LanchesMac",
+        "CaseSensitive": false,
+        "TagMatchingRules": [
+          {
+            "TagName": "vc:carrinho-compra-resumo"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "ITagHelper",
+          "Common.TypeName": "__Generated__CarrinhoCompraResumoViewComponentTagHelper",
+          "MVC.ViewComponent.Name": "CarrinhoCompraResumo"
+        }
+      },
+      {
+        "HashCode": 1164229465,
+        "Kind": "MVC.ViewComponent",
+        "Name": "__Generated__CategoriaMenuViewComponentTagHelper",
+        "AssemblyName": "LanchesMac",
+        "CaseSensitive": false,
+        "TagMatchingRules": [
+          {
+            "TagName": "vc:categoria-menu"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "ITagHelper",
+          "Common.TypeName": "__Generated__CategoriaMenuViewComponentTagHelper",
+          "MVC.ViewComponent.Name": "CategoriaMenu"
+        }
+      },
+      {
         "HashCode": 141407075,
         "Kind": "Components.Bind",
         "Name": "Bind",
@@ -16298,6 +16366,21 @@
   "RootNamespace": "LanchesMac",
   "Documents": [
     {
+      "FilePath": "c:\\Users\\Leticia Alves\\Documents\\Montreal\\LanchesMac\\Views\\Contato\\Index.cshtml",
+      "TargetPath": "Views\\Contato\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\Leticia Alves\\Documents\\Montreal\\LanchesMac\\Views\\Shared\\Componentes\\CategoriaMenu\\Default.cshtml",
+      "TargetPath": "Views\\Shared\\Componentes\\CategoriaMenu\\Default.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\Leticia Alves\\Documents\\Montreal\\LanchesMac\\Views\\Shared\\_LanchesResumo.cshtml",
+      "TargetPath": "Views\\Shared\\_LanchesResumo.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "c:\\Users\\Leticia Alves\\Documents\\Montreal\\LanchesMac\\Views\\_ViewStart.cshtml",
       "TargetPath": "Views\\_ViewStart.cshtml",
       "FileKind": "mvc"
@@ -16323,6 +16406,16 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "c:\\Users\\Leticia Alves\\Documents\\Montreal\\LanchesMac\\Views\\Lanche\\Details.cshtml",
+      "TargetPath": "Views\\Lanche\\Details.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\Leticia Alves\\Documents\\Montreal\\LanchesMac\\Views\\CarrinhoCompra\\Index.cshtml",
+      "TargetPath": "Views\\CarrinhoCompra\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "c:\\Users\\Leticia Alves\\Documents\\Montreal\\LanchesMac\\Views\\Lanche\\List.cshtml",
       "TargetPath": "Views\\Lanche\\List.cshtml",
       "FileKind": "mvc"
@@ -16335,6 +16428,11 @@
     {
       "FilePath": "c:\\Users\\Leticia Alves\\Documents\\Montreal\\LanchesMac\\Views\\_ViewImports.cshtml",
       "TargetPath": "Views\\_ViewImports.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\Leticia Alves\\Documents\\Montreal\\LanchesMac\\Views\\Shared\\Componentes\\CarrinhoCompraResumo\\Default.cshtml",
+      "TargetPath": "Views\\Shared\\Componentes\\CarrinhoCompraResumo\\Default.cshtml",
       "FileKind": "mvc"
     }
   ],

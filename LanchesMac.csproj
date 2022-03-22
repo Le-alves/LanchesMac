@@ -10,5 +10,6 @@
     <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer.NetTopologySuite" Version="7.0.0-preview.2.22153.1"/>
     <PackageReference Include="dbup-add-migration" Version="1.3.0"/>
     <PackageReference Include="Microsoft.EntityFrameworkCore.Design" Version="7.0.0-preview.2.22153.1"/>
+    <PackageReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Design" Version="7.0.0-preview.1.22116.2"/>
   </ItemGroup>
 </Project>
